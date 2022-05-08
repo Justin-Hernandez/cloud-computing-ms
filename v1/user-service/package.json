@@ -1,0 +1,17 @@
+{
+  "name": "user-service",
+  "version": "1.0.0",
+  "description": "Servicio que se encarga de la gestion de usuarios.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.17.2",
+    "mongodb": "4.3.1",
+    "jsonschema": "1.4.0",
+    "body-parser": "1.19.1"
+  },
+  "author": "Justin Hernandez Jover",
+  "license": "ISC"
+}
